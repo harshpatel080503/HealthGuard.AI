@@ -111,6 +111,25 @@ HealthGuard addresses these challenges through:
 - Expand to a national-level disease surveillance platform.
 - Enhance symptom checker accuracy with more medical datasets.
 
+## Snapshots
+
+### State Authority
+![State Map](https://github.com/user-attachments/assets/7d8e3a96-0d70-43ea-87a3-ac1b29ce3146)
+![State Report](https://github.com/user-attachments/assets/67383f98-6f2f-47c2-88f6-5270a2f8b0d5)
+![State Safe Zone](https://github.com/user-attachments/assets/25137c45-4b50-46c3-97d6-ba8456c0dccf)
+![State Hospital Details](https://github.com/user-attachments/assets/62890fd9-144c-4c38-a0d0-fbbe4a0bc805)
+![State Dashboard](https://github.com/user-attachments/assets/a538ca56-9a51-49ec-aa7e-fecea99826ca)
+![State AI Module](https://github.com/user-attachments/assets/a734e4b6-4319-4c1d-b1d7-c65fbc920dab)
+
+### District Authority
+![District Dashboard](https://github.com/user-attachments/assets/ce76c8d9-1dc2-41a8-bef1-38f07fd4b12b)
+![District Map](https://github.com/user-attachments/assets/77544e86-1464-43ab-b389-d602bece0b45)
+![District Report](https://github.com/user-attachments/assets/bfdf3c8d-8017-407f-82e6-d4f1ef4b4837)
+
+### User 
+
+![User Dashboard](https://github.com/user-attachments/assets/e3eb8912-1284-4dfe-bfb3-d08d6fcdc420)
+
 ---
 
 ## License
