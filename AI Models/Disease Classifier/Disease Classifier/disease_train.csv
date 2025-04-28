@@ -1,0 +1,280 @@
+Symptom_Text,Age,Gender,Blood Pressure,Cholesterol Level,Disease
+"Fever, Cough, Fatigue, Difficulty Breathing",50,0,1,1,Ebola Virus
+Cough,35,1,2,2,Conjunctivitis (Pink Eye)
+Fatigue,35,0,1,2,Pancreatitis
+Fever,29,1,2,1,Pancreatitis
+"Fever, Cough, Fatigue",35,1,1,1,Hyperthyroidism
+Fatigue,60,1,1,2,Chronic Kidney Disease
+"Fever, Cough, Fatigue, Difficulty Breathing",25,1,1,1,Influenza
+"Fever, Cough, Fatigue, Difficulty Breathing",38,0,1,1,Pneumonia
+,48,1,0,2,Hypertension
+"Fever, Fatigue",65,0,2,1,Urinary Tract Infection (UTI)
+Cough,65,0,1,2,Alzheimer's Disease
+"Fever, Cough, Fatigue, Difficulty Breathing",40,1,1,2,Pneumonia
+"Fever, Fatigue",42,0,1,0,Stroke
+Fatigue,38,1,0,1,Kidney Disease
+Fatigue,55,1,2,2,Hypothyroidism
+Fatigue,35,0,1,1,Atherosclerosis
+"Fever, Fatigue",85,0,2,2,Stroke
+Fever,55,1,2,2,HIV/AIDS
+Cough,55,1,1,0,Hypertension
+"Fever, Cough, Fatigue",50,0,1,2,Crohn's Disease
+"Fever, Fatigue, Difficulty Breathing",65,0,2,2,Bronchitis
+"Cough, Fatigue, Difficulty Breathing",29,1,2,2,Rheumatoid Arthritis
+Cough,40,1,1,2,Psoriasis
+"Cough, Fatigue",30,0,2,2,Eczema
+"Fever, Fatigue",65,1,2,0,Stroke
+"Cough, Fatigue, Difficulty Breathing",70,0,1,2,Chronic Obstructive Pulmonary Disease (COPD)
+"Fever, Fatigue, Difficulty Breathing",50,0,2,2,Sleep Apnea
+"Fever, Cough",52,0,1,0,Hypertension
+"Fever, Fatigue",85,0,2,2,Stroke
+"Fever, Cough, Fatigue, Difficulty Breathing",45,0,2,2,Pneumonia
+"Fever, Cough, Fatigue",40,0,2,2,Gastroenteritis
+Fatigue,55,1,1,1,Coronary Artery Disease
+"Fever, Fatigue",70,1,2,1,Alzheimer's Disease
+"Fever, Cough",70,0,2,1,Prostate Cancer
+"Fever, Cough, Fatigue, Difficulty Breathing",29,1,1,1,Liver Cancer
+Fever,40,0,2,1,Psoriasis
+Fatigue,35,1,1,2,Depression
+Fever,40,1,2,2,Diabetes
+"Fever, Cough, Fatigue, Difficulty Breathing",29,0,2,1,Depression
+"Fever, Cough, Difficulty Breathing",50,0,2,1,Urinary Tract Infection
+Cough,38,1,1,2,Osteoporosis
+Cough,55,0,1,0,Typhoid Fever
+"Cough, Fatigue",30,0,1,1,Sinusitis
+Fatigue,55,0,2,1,Osteoporosis
+"Fever, Fatigue, Difficulty Breathing",42,0,1,0,Liver Cancer
+"Fever, Cough, Fatigue",45,0,2,1,Anxiety Disorders
+Fever,70,0,1,1,Osteoporosis
+Fatigue,65,0,1,2,Diabetes
+"Cough, Fatigue",55,1,1,1,Osteoporosis
+"Fever, Fatigue",45,1,2,2,Hepatitis
+"Cough, Fatigue, Difficulty Breathing",35,1,2,1,Asthma
+Fever,42,1,1,1,Kidney Cancer
+"Fever, Fatigue",60,0,2,1,Hypertension
+Fatigue,39,1,1,1,Klinefelter Syndrome
+"Fever, Difficulty Breathing",42,0,2,1,Depression
+Cough,29,1,1,1,Gastroenteritis
+Cough,50,1,0,1,Rheumatoid Arthritis
+"Fever, Cough, Fatigue, Difficulty Breathing",25,1,1,1,Influenza
+"Cough, Fatigue, Difficulty Breathing",55,1,1,0,Migraine
+Fatigue,50,1,1,1,Klinefelter Syndrome
+"Fever, Difficulty Breathing",28,0,2,1,Asthma
+"Fever, Fatigue",42,1,2,0,Kidney Disease
+Fatigue,60,0,1,1,Hyperthyroidism
+"Fever, Cough, Fatigue",35,0,2,2,Hyperthyroidism
+Cough,50,0,0,2,Pancreatitis
+"Fever, Cough, Fatigue",45,1,2,2,Pneumocystis Pneumonia (PCP)
+Fever,45,0,1,1,Rheumatoid Arthritis
+Fatigue,45,0,2,2,Turner Syndrome
+"Cough, Fatigue, Difficulty Breathing",50,0,2,2,Liver Cancer
+Fatigue,70,0,1,1,Cholecystitis
+Fatigue,35,1,1,0,Rheumatoid Arthritis
+"Fever, Cough, Fatigue, Difficulty Breathing",35,1,1,1,Pneumonia
+Fatigue,60,1,2,2,Rheumatoid Arthritis
+"Fever, Fatigue",35,1,1,2,Urinary Tract Infection
+,42,0,0,1,Anxiety Disorders
+"Fever, Fatigue",55,1,1,1,Osteoporosis
+Cough,38,1,0,1,Allergic Rhinitis
+"Fever, Fatigue",80,1,2,2,Stroke
+"Fever, Cough, Fatigue, Difficulty Breathing",35,1,1,1,Pneumonia
+"Fever, Fatigue",30,1,1,1,Dengue Fever
+Fatigue,30,1,2,2,Bipolar Disorder
+"Fever, Cough",42,1,2,2,Common Cold
+"Fever, Cough, Difficulty Breathing",40,1,1,1,Asthma
+Fatigue,35,0,1,1,Obsessive-Compulsive Disorde...
+"Fever, Cough",60,1,2,1,Measles
+"Cough, Fatigue",60,0,1,0,Hepatitis B
+"Fever, Fatigue, Difficulty Breathing",40,0,1,2,Asthma
+Cough,42,1,1,2,Influenza
+Fever,45,1,2,2,Multiple Sclerosis
+Fever,35,0,2,2,Malaria
+"Fever, Cough, Fatigue, Difficulty Breathing",60,1,2,2,Kidney Disease
+"Fever, Fatigue, Difficulty Breathing",50,1,2,2,Cholera
+"Fever, Fatigue",60,0,2,1,Osteoporosis
+Fatigue,45,0,1,1,Hyperglycemia
+"Fever, Fatigue",55,1,1,1,Osteoporosis
+"Fever, Cough",45,0,1,2,Kidney Disease
+"Fever, Fatigue, Difficulty Breathing",55,0,1,0,Common Cold
+"Fever, Cough, Fatigue, Difficulty Breathing",55,0,2,1,Bronchitis
+"Fever, Fatigue",55,0,1,1,Appendicitis
+Fatigue,40,1,2,2,Coronary Artery Disease
+"Fever, Cough, Difficulty Breathing",30,1,0,1,Bronchitis
+"Cough, Fatigue",29,1,1,0,Allergic Rhinitis
+"Fever, Cough, Fatigue, Difficulty Breathing",50,0,2,2,Bronchitis
+Fatigue,45,1,1,2,Cataracts
+Fatigue,40,0,1,1,Acne
+"Fever, Cough, Fatigue, Difficulty Breathing",50,1,1,2,Asthma
+Fatigue,55,1,1,0,Parkinson's Disease
+Fatigue,40,0,2,1,Glaucoma
+"Fever, Fatigue",65,1,1,2,Lung Cancer
+"Fever, Fatigue",70,1,1,2,Gout
+"Cough, Fatigue",65,1,2,2,Osteoporosis
+"Fever, Fatigue, Difficulty Breathing",65,1,2,2,Chronic Obstructive Pulmonary Disease (COPD)
+"Fever, Fatigue",45,1,2,2,Hepatitis
+Fatigue,60,0,1,1,Osteomyelitis
+Fatigue,65,0,1,2,Mumps
+"Cough, Fatigue, Difficulty Breathing",42,1,1,0,Urinary Tract Infection
+"Cough, Fatigue, Difficulty Breathing",50,0,2,2,Stroke
+"Cough, Fatigue",25,1,1,1,Eczema
+"Fatigue, Difficulty Breathing",40,0,2,2,Cystic Fibrosis
+Fatigue,55,0,1,1,Esophageal Cancer
+"Fever, Fatigue, Difficulty Breathing",45,0,2,1,Osteoarthritis
+"Cough, Difficulty Breathing",60,1,1,1,Osteoarthritis
+"Fever, Cough",40,1,2,1,Rabies
+"Fever, Cough, Fatigue, Difficulty Breathing",60,1,2,2,Asthma
+,45,1,2,2,Scoliosis
+Fatigue,60,1,2,2,Thyroid Cancer
+Cough,40,0,1,2,Chickenpox
+"Cough, Fatigue",35,0,2,2,Urinary Tract Infection (UTI)
+Cough,60,0,2,2,Osteoporosis
+"Cough, Fatigue",30,1,1,1,Migraine
+Fatigue,35,0,2,2,Kidney Cancer
+"Cough, Fatigue",60,0,1,0,Hepatitis B
+"Fever, Fatigue, Difficulty Breathing",38,0,2,0,Diabetes
+Cough,50,1,2,2,Eczema
+Fatigue,50,0,1,2,Crohn's Disease
+Fatigue,40,1,1,1,Hemophilia
+Fatigue,45,1,2,2,Crohn's Disease
+Fatigue,55,1,1,0,Parkinson's Disease
+Fatigue,30,1,2,2,Hypertensive Heart Disease
+"Fever, Cough, Fatigue",65,1,2,2,Lung Cancer
+"Fever, Cough, Fatigue",35,1,2,1,Hypertension
+"Fever, Fatigue",55,0,2,1,Hypertension
+Fatigue,35,0,2,2,Liver Disease
+Fatigue,45,1,2,2,Depression
+Fever,35,1,1,0,Psoriasis
+"Cough, Fatigue, Difficulty Breathing",43,1,2,1,Pneumonia
+Cough,29,1,1,2,Anxiety Disorders
+"Fever, Cough, Difficulty Breathing",30,1,1,1,Asthma
+Fever,30,1,1,1,Migraine
+Fatigue,45,0,1,1,Ovarian Cancer
+"Fever, Cough, Fatigue, Difficulty Breathing",40,0,2,2,Tuberculosis
+"Fever, Fatigue, Difficulty Breathing",42,0,1,0,Lung Cancer
+"Fever, Cough, Fatigue",50,0,1,1,Sepsis
+Fatigue,40,1,2,2,Fibromyalgia
+Cough,55,1,1,2,Diabetes
+Difficulty Breathing,31,0,0,1,Osteoporosis
+Fever,35,0,2,2,Ulcerative Colitis
+"Fever, Cough",55,1,1,1,Polycystic Ovary Syndrome (PCOS)
+"Cough, Fatigue",45,1,2,2,Zika Virus
+Fatigue,48,0,1,2,Hypothyroidism
+"Fever, Cough, Difficulty Breathing",40,1,1,1,Asthma
+"Fatigue, Difficulty Breathing",30,1,1,1,Cerebral Palsy
+Fever,35,0,2,2,Migraine
+Fatigue,70,0,1,1,Parkinson's Disease
+Fatigue,50,0,1,1,Anemia
+Cough,40,1,1,2,Lymphoma
+"Fever, Cough, Fatigue, Difficulty Breathing",30,0,2,1,Hepatitis
+Fatigue,70,1,1,1,Williams Syndrome
+"Fever, Cough, Fatigue, Difficulty Breathing",40,0,2,2,Tuberculosis
+Fatigue,60,1,2,1,Hypertension
+"Fever, Cough, Difficulty Breathing",25,0,1,1,Asthma
+"Fever, Fatigue, Difficulty Breathing",19,1,0,1,Influenza
+"Fever, Fatigue",70,1,2,1,Alzheimer's Disease
+"Fever, Cough",60,0,2,1,Parkinson's Disease
+Fatigue,65,1,2,2,Dementia
+,38,0,1,1,Influenza
+Fatigue,50,1,2,2,Down Syndrome
+Fever,45,1,2,2,Multiple Sclerosis
+Fatigue,60,1,1,1,Prader-Willi Syndrome
+"Cough, Difficulty Breathing",50,0,1,1,Kidney Disease
+Cough,50,0,1,2,Diabetes
+"Cough, Difficulty Breathing",38,0,0,1,Liver Disease
+"Cough, Fatigue, Difficulty Breathing",45,0,1,0,Pancreatitis
+,38,1,1,2,Depression
+"Fever, Cough, Fatigue, Difficulty Breathing",30,1,1,1,Asthma
+Cough,50,1,1,0,Hypertension
+"Fever, Cough, Fatigue, Difficulty Breathing",35,0,1,1,Chronic Obstructive Pulmonary...
+Fatigue,30,1,2,2,Multiple Sclerosis
+"Fever, Cough",30,1,1,1,Ulcerative Colitis
+Fatigue,45,0,1,2,Tetanus
+Cough,65,0,1,2,Alzheimer's Disease
+Fatigue,30,0,1,1,Kidney Cancer
+"Fever, Cough",60,0,2,2,Coronary Artery Disease
+"Fever, Cough, Fatigue, Difficulty Breathing",50,1,2,1,Gastroenteritis
+,55,1,2,2,Hemorrhoids
+"Fever, Fatigue",45,0,2,1,Crohn's Disease
+"Fever, Cough",60,0,2,1,Parkinson's Disease
+"Cough, Fatigue",40,0,2,1,Psoriasis
+"Fever, Cough, Fatigue",35,0,2,1,Common Cold
+Fatigue,40,1,2,2,Hypoglycemia
+Cough,40,0,1,2,Chickenpox
+Cough,28,1,1,1,Hyperthyroidism
+Fatigue,35,0,2,2,Epilepsy
+,29,0,0,1,Diabetes
+"Fever, Cough, Fatigue",42,1,2,2,Hypothyroidism
+"Fever, Cough, Fatigue, Difficulty Breathing",30,0,2,2,Bronchitis
+"Fever, Cough, Fatigue",65,1,2,2,Liver Cancer
+Cough,60,0,2,2,Osteoporosis
+"Fever, Cough, Fatigue",50,0,1,2,Hypothyroidism
+"Fever, Cough, Fatigue",60,1,2,2,Tuberculosis
+"Fatigue, Difficulty Breathing",50,1,2,2,Pneumothorax
+Fatigue,50,0,1,1,Anxiety Disorders
+"Cough, Fatigue",50,1,0,0,Depression
+"Fever, Cough, Fatigue",65,1,1,2,Diabetes
+"Cough, Fatigue",55,0,2,0,Liver Disease
+Fatigue,70,1,2,2,Testicular Cancer
+Fatigue,65,1,2,2,Diverticulitis
+"Cough, Fatigue",55,1,2,2,Systemic Lupus Erythematosus...
+Fatigue,45,0,1,2,Tetanus
+Fatigue,45,0,1,1,Autism Spectrum Disorder (ASD)
+Fever,30,0,2,2,Eczema
+Cough,50,0,0,2,Kidney Cancer
+Fatigue,45,1,2,2,Hypothyroidism
+Fatigue,55,1,1,1,Coronary Artery Disease
+"Fever, Cough",38,1,2,1,Stroke
+Fever,31,1,1,1,Migraine
+"Cough, Fatigue",25,1,1,1,Common Cold
+Fever,30,1,1,1,Urinary Tract Infection (UTI)
+"Fever, Fatigue, Difficulty Breathing",35,0,0,2,Gastroenteritis
+Fever,50,0,2,2,Allergic Rhinitis
+"Fever, Cough, Difficulty Breathing",30,1,1,1,Asthma
+"Fever, Cough",55,1,2,2,Osteoarthritis
+"Fever, Cough, Fatigue",35,0,1,0,Rheumatoid Arthritis
+"Fever, Fatigue, Difficulty Breathing",31,0,2,2,Common Cold
+"Fever, Fatigue, Difficulty Breathing",55,0,2,0,Osteoporosis
+"Cough, Fatigue",52,0,1,1,Multiple Sclerosis
+,29,1,0,1,Common Cold
+"Cough, Fatigue",35,0,2,2,Migraine
+"Fever, Cough, Difficulty Breathing",57,0,1,2,Pneumonia
+"Cough, Fatigue, Difficulty Breathing",45,0,1,0,Kidney Cancer
+"Fever, Fatigue",80,1,2,2,Stroke
+Fatigue,40,0,2,2,Hyperthyroidism
+"Fever, Cough, Fatigue",65,0,1,1,Otitis Media (Ear Infection)
+"Cough, Fatigue",70,0,1,1,Schizophrenia
+"Fatigue, Difficulty Breathing",55,0,2,2,Bronchitis
+"Fever, Fatigue, Difficulty Breathing",32,1,2,1,Pneumonia
+Difficulty Breathing,31,0,1,0,Asthma
+Fatigue,45,0,2,2,Turner Syndrome
+"Fever, Fatigue",45,0,1,2,Hypertension
+"Fever, Fatigue",90,1,2,2,Stroke
+"Fever, Fatigue",45,1,2,2,Diabetes
+,45,1,0,1,Migraine
+"Cough, Fatigue, Difficulty Breathing",35,1,2,1,Asthma
+"Fever, Cough, Fatigue, Difficulty Breathing",30,1,2,2,Myocardial Infarction (Heart...
+Fatigue,50,1,2,2,Pancreatic Cancer
+Fatigue,55,0,2,2,Marfan Syndrome
+"Fever, Cough, Fatigue",29,0,2,2,Urinary Tract Infection
+Fatigue,65,1,2,2,Alzheimer's Disease
+"Cough, Fatigue",45,0,2,1,Allergic Rhinitis
+"Fever, Cough",60,0,2,2,Coronary Artery Disease
+"Fever, Cough, Fatigue",45,1,1,2,Liver Disease
+,60,1,2,2,Hypertension
+"Fever, Cough",55,1,1,0,Anxiety Disorders
+"Fever, Fatigue",65,1,2,0,Stroke
+"Fever, Difficulty Breathing",42,1,1,1,Liver Disease
+Fatigue,40,1,2,2,"Eating Disorders (Anorexia,..."
+"Fever, Cough, Fatigue",42,0,2,2,Migraine
+,38,0,1,0,Gastroenteritis
+Fever,35,0,2,2,Malaria
+"Cough, Fatigue, Difficulty Breathing",70,0,1,2,Chronic Obstructive Pulmonary Disease (COPD)
+Fever,50,0,2,1,Endometriosis
+"Fever, Fatigue",40,0,0,1,Asthma
+"Fever, Fatigue",90,1,2,2,Stroke
+"Fever, Cough, Fatigue, Difficulty Breathing",29,1,1,1,Stroke
+"Cough, Fatigue",45,0,1,2,Diabetes
+"Cough, Fatigue",35,1,1,0,Psoriasis
+"Fever, Fatigue, Difficulty Breathing",38,0,2,2,Anxiety Disorders
+Cough,55,0,1,0,Typhoid Fever
+"Fever, Cough",38,1,2,1,Liver Cancer

@@ -1,0 +1,6 @@
+Hospital ID,Hospital Name,Hospital Registration Number,Hospital Email ID,Hospital Password,Hospital Confirm Password,Hospital Phone Number,Hospital District,Hospital Address,Total Beds in Hospital,Total Ventilator in Hospital,Total Oxygen Capacity (L) in Hospital,Total ICU Beds in Hospital,Oxygen Refill Time Estimation (hours),Total PPE Kit,Total Doctors,Total Nurses
+H001,Civil Hospital,REG85193,contact@civilhospital.com,civil85193,civil85193,9554132167,Ahmedabad,"D Block Asarwa, Ahmedabad, Gujarat 380016",244,99,48992,137,12,1397,117,225
+H002,VS Hospital,REG56339,contact@vshospital.com,vs56339,vs56339,8750057135,Ahmedabad,"605, Paldi Rd, Ahmedabad, Gujarat 380006",275,91,45688,58,27,722,127,327
+H003,Apollo Hospital,REG68563,contact@apollohospital.com,apollo68563,apollo68563,9784054811,Ahmedabad,"Plot No, 1A, Ahmedabad, Gujarat 382428",267,68,44376,90,45,1643,141,290
+H004,Lifecare Hospital,REG76604,contact@lifecarehospital.com,lifecare76604,lifecare76604,9766897752,Ahmedabad,"Sardar Patel Statue Cir, Ahmedabad, Gujarat 380014",323,90,19994,144,43,954,133,398
+H005,Karnavati Hospital,REG94096,contact@karnavatihospital.com,karnavati94096,karnavati94096,9486152472,Ahmedabad,"Naroda Rd, Ahmedabad, Gujarat 382345",217,20,37653,108,12,1821,137,190

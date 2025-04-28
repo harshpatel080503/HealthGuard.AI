@@ -1,0 +1,71 @@
+Symptom_Text,Age,Gender,Blood Pressure,Cholesterol Level,Disease
+"Fever, Cough, Fatigue",42,1,2,2,Hypothyroidism
+"Fever, Cough, Fatigue",70,1,2,2,Tonsillitis
+"Fever, Fatigue, Difficulty Breathing",65,1,2,2,Chronic Obstructive Pulmonary Disease (COPD)
+Fever,50,0,1,2,Lyme Disease
+"Fever, Cough, Fatigue",42,0,2,1,Diabetes
+Fatigue,60,0,2,2,Breast Cancer
+Fatigue,65,0,1,1,Bladder Cancer
+"Fever, Cough, Fatigue, Difficulty Breathing",50,0,1,1,Ebola Virus
+"Fever, Cough",60,1,2,1,Measles
+"Fever, Cough, Fatigue",45,1,2,2,Crohn's Disease
+"Fever, Cough, Difficulty Breathing",35,0,1,1,Asthma
+"Fatigue, Difficulty Breathing",40,0,2,2,Asthma
+"Fever, Fatigue",45,0,2,1,Melanoma
+"Fever, Fatigue, Difficulty Breathing",40,0,1,2,Asthma
+Fatigue,45,0,1,1,Stroke
+"Fever, Cough, Fatigue, Difficulty Breathing",30,0,2,2,Bronchitis
+"Fever, Cough, Fatigue",60,1,2,1,Pancreatitis
+Fatigue,35,1,1,2,Cirrhosis
+"Cough, Fatigue, Difficulty Breathing",35,1,1,2,Asthma
+Fatigue,40,0,2,1,Osteoarthritis
+Fever,50,0,1,2,Lyme Disease
+"Fever, Cough, Fatigue",30,0,2,1,Influenza
+"Fever, Cough, Difficulty Breathing",45,0,1,1,Asthma
+"Fever, Cough, Fatigue, Difficulty Breathing",56,0,2,2,Influenza
+"Fever, Cough, Fatigue",35,0,2,2,Hyperthyroidism
+"Fever, Cough, Fatigue",30,0,2,2,Gastroenteritis
+"Cough, Fatigue",50,1,1,2,Ulcerative Colitis
+Cough,28,1,1,1,Hyperthyroidism
+Fatigue,35,1,1,1,Spina Bifida
+"Fever, Cough, Fatigue",45,1,1,2,Osteoporosis
+"Fever, Cough, Fatigue",60,1,2,1,Kidney Cancer
+"Cough, Fatigue",45,1,2,2,Zika Virus
+"Fever, Fatigue",30,1,1,1,Dengue Fever
+"Fever, Cough",40,1,2,1,Rabies
+Fever,60,0,2,2,Osteoporosis
+Fatigue,35,1,1,0,Allergic Rhinitis
+Fatigue,30,1,1,2,Colorectal Cancer
+Fatigue,30,0,2,2,Muscular Dystrophy
+"Fever, Fatigue, Difficulty Breathing",50,1,2,2,Cholera
+Fatigue,65,0,2,2,Tourette Syndrome
+Fatigue,40,0,1,1,Brain Tumor
+Fatigue,35,1,2,2,Liver Cancer
+Fatigue,70,1,1,1,Migraine
+Fever,25,1,1,1,Eczema
+Fever,55,1,2,2,HIV/AIDS
+Fatigue,42,0,1,0,Osteoarthritis
+"Fever, Cough, Fatigue, Difficulty Breathing",35,1,1,1,Asthma
+Fatigue,60,1,1,1,Hemophilia
+"Fever, Fatigue",35,1,2,1,Rubella
+Fatigue,65,0,1,2,Mumps
+Cough,70,0,1,2,Stroke
+"Fever, Cough, Difficulty Breathing",25,0,1,1,Asthma
+"Fever, Cough",38,0,2,2,Migraine
+"Fever, Cough, Fatigue",38,0,2,2,Osteoarthritis
+"Cough, Fatigue",52,0,1,1,Multiple Sclerosis
+"Fever, Cough, Fatigue",60,0,1,1,Polio
+"Fever, Cough, Fatigue, Difficulty Breathing",30,1,1,1,Influenza
+Fatigue,48,0,1,2,Hypothyroidism
+"Fever, Fatigue",35,1,2,1,Rubella
+"Cough, Difficulty Breathing",40,1,1,1,Bronchitis
+,45,1,0,1,Urinary Tract Infection
+"Cough, Fatigue",30,1,1,1,Ulcerative Colitis
+Cough,35,0,2,1,Eczema
+Cough,70,0,1,2,Stroke
+"Fever, Cough, Difficulty Breathing",35,0,1,1,Asthma
+Fatigue,35,0,2,2,Ulcerative Colitis
+"Fever, Cough, Difficulty Breathing",45,0,1,1,Asthma
+"Fever, Cough, Fatigue",45,0,2,1,Allergic Rhinitis
+Fatigue,45,1,1,1,Sickle Cell Anemia
+"Fever, Cough, Fatigue",65,1,2,2,Stroke
