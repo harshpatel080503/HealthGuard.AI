@@ -1,4 +1,5 @@
-# HealthGuard: AI-Powered Disease Surveillance System
+# ![HealthGuard: AI-Powered Disease Surveillance System]{https://disease-surveillance-ai-new.vercel.app/}
+
 
 ## Overview
 **HealthGuard** is an AI-powered disease surveillance system developed under **SSIP 2.0** for **Gujarat Informatics Limited**.  
