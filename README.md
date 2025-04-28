@@ -1,4 +1,4 @@
-# ![HealthGuard: AI-Powered Disease Surveillance System]{https://disease-surveillance-ai-new.vercel.app/}
+# ![HealthGuard: AI-Powered Disease Surveillance System](https://disease-surveillance-ai-new.vercel.app/)
 
 
 ## Overview
